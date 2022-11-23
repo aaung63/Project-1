@@ -1,0 +1,57 @@
+body {
+    background-image: url("image/good.jpg");
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-size: cover;
+    background-repeat:initial;
+    align-items: center;
+}
+
+#nav-bar{
+    background-color:rgba(222, 184, 135, 0.246);
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    font-style: italic;
+}
+
+.greeting {
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.image {
+    margin: 0;
+    padding-left: 37%;
+    width: 500px;
+    align-items: center;
+}
+
+.intro {
+    text-size-adjust: 25px;
+}
+
+main {
+    font-size: 20px;
+}
+
+tr {
+    font-size: 20px;
+}
+
+main table {
+    background-color: beige;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+table.center {
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 25px;
+}
+
+main table thead {
+    text-align: left;
+}
